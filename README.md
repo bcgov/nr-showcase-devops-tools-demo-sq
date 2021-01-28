@@ -1,4 +1,4 @@
-# Natural Resources Common Services Showcase DevOps Tools Demo SQ
+# Natural Resources Common Services Showcase DevOps Tools Demo SQ [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE) [![img](https://img.shields.io/badge/Lifecycle-Retired-d45500)](https://github.com/bcgov/repomountie/blob/master/doc/lifecycle-badges.md)
 
 This repository can be used to demonstrate the [nr-showcase-devops-tools](https://github.com/bcgov/nr-showcase-devops-tools.git) pipeline.  The pipeline is Jenkins/SonarQube that implements a Pull Request pipeline; and this repository contains very simple examples of the files required by an application repository to be built/deployed in that pipeline.
 
